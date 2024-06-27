@@ -1,0 +1,8 @@
+# Directories
+__pycache__/
+tmp/
+*/checkpoints
+*.ipynb_checkpoints
+
+# Files
+.DS_Store
