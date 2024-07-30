@@ -7,6 +7,6 @@ scikit-learn==1.5.0
 seaborn==0.12.1
 scikeras[tensorflow]==0.10.0
 six==1.16.0
-tensorflow==2.11.1
+tensorflow==2.12.1
 tflite-runtime==2.11.0
 pipenv
